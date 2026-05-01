@@ -1,0 +1,27 @@
+packages/wrangler/src/type-generation/index.ts
+  8c3dc9ca05d4967b 1062-1069,1395-1400
+.changeset/fix-wrangler-types-unsafe-service-binding.md
+  8c3dc9ca05d4967b 1-7
+packages/wrangler/src/__tests__/type-generation.test.ts
+  8c3dc9ca05d4967b 503-507,817,936,1117,1485
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "1a3b20a2f8f3914b387248075a89204f044f2e3a",
+  "prompts": {
+    "8c3dc9ca05d4967b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_21bf75bfdffeVPbtt7PBD77mhm",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Zak Cutner",
+      "messages": [],
+      "total_additions": 30,
+      "total_deletions": 1,
+      "accepted_lines": 30,
+      "overriden_lines": 0
+    }
+  }
+}
